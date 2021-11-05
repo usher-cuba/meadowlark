@@ -2,5 +2,28 @@
   "dependencies": {
     "express": "^4.17.1",
     "express-handlebars": "^5.3.4"
-  }
+  },
+  "name": "meadowlark",
+  "description": "Web Development with Node and Express",
+  "version": "1.0.0",
+  "main": "meadowlark.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/usher-cuba/meadowlark.git"
+  },
+  "keywords": [
+    "meadowlark",
+    "express",
+    "nodejs"
+  ],
+  "author": "Alejandro Crespo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/usher-cuba/meadowlark/issues"
+  },
+  "homepage": "https://github.com/usher-cuba/meadowlark#readme"
 }
